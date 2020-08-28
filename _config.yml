@@ -45,8 +45,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-# url: http://blog.lindale.io
-# enforce_ssl: https://blog.lindale.io
+url: http://blog.lindale.io
+enforce_ssl: https://blog.lindale.io
 
 #
 # !! You don't need to change any of the configuration flags below !!
