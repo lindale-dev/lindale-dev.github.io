@@ -26,4 +26,10 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
+
+  {% if page.commentsUrl %}
+    <div>
+        <p><span class="share-box">Comments:</span> <a href="{{page.commentsUrl}}">Comment on the Forum</a></p>
+    </div>
+  {% endif %}
 </article>
