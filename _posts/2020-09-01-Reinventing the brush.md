@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Reinventing the brush
+title: Reinventing the Brush
 author: Thomas
+excerpt: For Skatter v2, we rebuilt the Paint Mask feature from scratch, making it much more powerful and versatile.
 comments_url: 
 ---
 
 
 
-Paint Areas have always been one of the major features of Skatter v1. If you're not familiar with it, here's a quick illustration:
+Paint Areas have always been one of the major features of Skatter v1. If you're not familiar with them, here's a quick illustration:
 
 <img src="{{ site.url }}/images/paint_areas.gif" alt="paint_areas" style="zoom:30%;" />
 
