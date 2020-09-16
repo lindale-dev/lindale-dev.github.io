@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Concerning the Skatter v2 estimated release date
+title: Regarding the Skatter v2 estimated release date
 author: Thomas
 excerpt: We explain why we missed the original Skatter 2.0 ETA, what's currently going on, and what our new ETA is.
 comments_url: 
@@ -30,7 +30,7 @@ Then Covid-19 hit, and other personal stuff happened.
 
 ### Where we're at
 
-Most of the major features planned for v2 are done. The last two major features in Skatter itself that need to be done are *Use other compositions as masks* and *Linked compositions*.
+The good news is that most of the major features planned for v2 are done. The last two major features in Skatter itself that need to be done are *Use other compositions as masks* and *Linked compositions*.
 
 The other big piece is the Library Browser and its Marketplace integration. We have made very good progress, and will soon start a Beta cycle once we get some content on the platform.
 
