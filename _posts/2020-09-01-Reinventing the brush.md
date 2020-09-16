@@ -3,7 +3,7 @@ layout: post
 title: Reinventing the Brush
 author: Thomas
 excerpt: For Skatter v2, we rebuilt the Paint Mask feature from scratch, making it much more powerful and versatile.
-comments_url: 
+comments_url: https://forums.lindale.io/t/reinventing-the-brush/2642
 ---
 
 

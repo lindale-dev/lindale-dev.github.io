@@ -3,7 +3,7 @@ layout: post
 title: Regarding the Skatter v2 estimated release date
 author: Thomas
 excerpt: We explain why we missed the original Skatter 2.0 ETA, what's currently going on, and what our new ETA is.
-comments_url: 
+comments_url: https://forums.lindale.io/t/regarding-the-skatter-v2-estimated-release-date/2644
 ---
 
 

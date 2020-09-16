@@ -3,7 +3,7 @@ layout: post
 title: Just received my new Uniform
 author: Thomas
 excerpt: Why and how we replaced the "Uniform" distribution type
-comments_url: 
+comments_url: https://forums.lindale.io/t/just-received-my-new-uniform/2643
 ---
 
 
